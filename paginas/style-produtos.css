@@ -1,5 +1,5 @@
 header{
-	background: url(background-cinza.png);
+	background: url(../imagens-usadas/background-cinza.png);
 	padding: 20px 0;
 }
 
@@ -95,7 +95,7 @@ nav a:active {
 
 footer{
 	text-align: center;
-	background: url(background-rodape.png);
+	background: url(../imagens-usadas/background-rodape.png);
 	padding: 25px 0;
 }
 

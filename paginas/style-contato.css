@@ -1,0 +1,60 @@
+header{
+	background: url(../imagens-usadas/background-cinza.png);
+	padding: 20px 0;
+}
+
+.caixa{
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.titulo-principal{
+	padding-left: 20px;
+	font-weight: bold;
+	text-align: center;
+	font-size: 40px;
+}
+
+nav{
+	position: absolute;
+	top:  140px;
+	right: 0;
+}
+
+nav li{
+	display: inline;
+	margin-left: 15px;
+}
+
+nav a{
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #4169E1;
+	text-decoration: underline;
+}
+
+nav a:active {
+	color: #2E8B57;
+}
+
+
+
+
+footer{
+	text-align: center;
+	background: url(../imagens-usadas/background-rodape.png);
+	padding: 25px 0;
+}
+
+.copyright{
+	color: #FFFFFF;
+	font-size: 15px;
+	margin: 12px 0;
+}
