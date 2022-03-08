@@ -1,5 +1,5 @@
 header{
-	background: url(../imagens-usadas/background-cinza.png);
+	background: url(background-cinza.png);
 	padding: 20px 0;
 }
 
@@ -44,12 +44,34 @@ nav a:active {
 	color: #2E8B57;
 }
 
+main {
+	width: 940px;
+	margin: 0 auto;
+}
 
+form{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+form label{
+	display: block;
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+
+form input{
+	display: block;
+	margin-bottom: 20px;
+	width: 50%;
+	font-size: 18px;
+	padding: 10px 15px;
+}
 
 
 footer{
 	text-align: center;
-	background: url(../imagens-usadas/background-rodape.png);
+	background: url(/background-rodape.png);
 	padding: 25px 0;
 }
 
